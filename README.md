@@ -1,2 +1,2 @@
 #Leetcode
-Here is my leetcode problems that i solved.
+Here are my leetcode problems that i solved.
